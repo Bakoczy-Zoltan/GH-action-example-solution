@@ -5,7 +5,6 @@ const wordList = ['Git', 'Action', 'Merge', 'Build', 'Deploy'];
 }
 
  function chooseWordFromListByIndex(i, list){
-    console.log(i)
     return list[i];
 }
 
